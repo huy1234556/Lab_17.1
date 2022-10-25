@@ -1,0 +1,76 @@
+button {
+  color: green;
+  border-color: green;
+  background-color: white;
+}
+header {
+  display: grid;
+  grid-template-columns: auto auto;
+  background-color: black;
+  height: 40px;
+}
+header a {
+  color: white;
+}
+#first {
+  font-size: 20px;
+  margin-left: 5px;
+}
+#second {
+  margin-left: 15px;
+  font-size: 17px;
+}
+#search {
+  margin-top: 5px;
+  margin-left: 850px;
+}
+
+span {
+  background: #8a8e91;
+  display: inline-block;
+  height: 2px;
+  margin-right: 10px;
+  width: 45px;
+}
+#content {
+  background-image: url(./hinh-anh-mat-trang-1.jpg);
+  width: 1366px;
+  height: 390px;
+}
+#content a {
+  color: white;
+}
+#content button {
+  background-color: blue;
+  border-color: blue;
+}
+#content p {
+  color: white;
+}
+#content h1 {
+  color: white;
+}
+#f-a {
+  background: white;
+}
+#active {
+  text-align: center;
+  padding-top: 50px;
+}
+#in {
+  padding-left: 200px;
+  padding-top: 80px;
+}
+h1 {
+  padding-top: 80px;
+}
+
+#footer {
+  display: grid;
+  grid-template-columns: auto auto;
+  margin-top: 150px;
+  margin-left: 80px;
+}
+#back {
+  margin-left: 800px;
+}
